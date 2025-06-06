@@ -34,7 +34,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img width="1246" alt="Screenshot 2025-04-17 at 6 56 22 PM" src="https://github.com/user-attachments/assets/1c2b8e7a-8e99-44df-b495-4cc2e4eaa507" />
+<img width="1440" alt="Screenshot 2025-06-05 at 10 25 31 PM" src="https://github.com/user-attachments/assets/fe0391ec-b648-48d3-8338-00a0154d3837" />
 </p>
 <p>
 🔹 Step 1: Create Azure Virtual Machines and Network Resources
