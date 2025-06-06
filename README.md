@@ -56,7 +56,6 @@ Using Remote Desktop, connect to the Windows 10 VM and install Wireshark. Start 
 <br />
 
 <p>
-<img width="1090" alt="Screenshot 2025-04-17 at 7 01 22 PM" src="https://github.com/user-attachments/assets/7442185e-d632-4740-92a3-60cf3da998ab" />
 <img width="1007" alt="Screenshot 2025-06-05 at 10 28 22 PM" src="https://github.com/user-attachments/assets/89e01e92-b8f1-45d4-bf1e-52d1a8eb8a73" />
 
 </p>
